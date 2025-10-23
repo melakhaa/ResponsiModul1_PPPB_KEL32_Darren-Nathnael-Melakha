@@ -194,3 +194,7 @@ Buka terminal Anda dan jalankan perintah berikut (ganti dengan URL repo Anda):
 ```bash
 git clone [LINK_GITHUB_REPOSITORY_ANDA]
 cd [NAMA_FOLDER_REPO_ANDA]
+
+### 2. Install Dependencies
+
+Instal semua *package* Node.js yang dibutuhkan proyek:
