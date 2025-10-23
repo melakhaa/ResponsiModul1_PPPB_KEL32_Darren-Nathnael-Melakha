@@ -194,7 +194,31 @@ Buka terminal Anda dan jalankan perintah berikut (ganti dengan URL repo Anda):
 ```bash
 git clone [LINK_GITHUB_REPOSITORY_ANDA]
 cd [NAMA_FOLDER_REPO_ANDA]
+```
 
 ### 2. Install Dependencies
 
 Instal semua *package* Node.js yang dibutuhkan proyek:
+```bash
+npm install
+```
+
+### 3. Konfigurasi Environment Variables
+
+Buat sebuah file baru bernama .env di direktori utama proyek. Salin dan tempel format di bawah ini, lalu isi dengan kredensial dari dashboard Supabase Anda.
+```bash
+SUPABASE_URL=URL_PROYEK_SUPABASE_ANDA
+SUPABASE_SERVICE_KEY=KUNCI_ANON_PUBLIK
+```
+
+### 3. Konfigurasi Environment Variables
+
+```bash
+npm run dev
+```
+
+## 📦 Link GitHub Repository
+https://github.com/melakhaa/ResponsiModul1_PPPB_KEL32_Darren-Nathnael-Melakha.git
+
+## 🌐 Link Deploy (Vercel)
+https://responsi-modul1-pppb-kel-32-darren.vercel.app/
