@@ -192,8 +192,8 @@ API ini telah diuji menggunakan Postman untuk memastikan semua fungsionalitas CR
 
 Buka terminal Anda dan jalankan perintah berikut (ganti dengan URL repo Anda):
 ```bash
-git clone [LINK_GITHUB_REPOSITORY_ANDA]
-cd [NAMA_FOLDER_REPO_ANDA]
+git clone https://github.com/melakhaa/ResponsiModul1_PPPB_KEL32_Darren-Nathnael-Melakha.git
+cd C:\Kuliah\Matkul Sem 5\PRAK PPB\Modul 1\sepatu-api
 ```
 
 ### 2. Install Dependencies
